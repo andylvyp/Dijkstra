@@ -7,9 +7,15 @@ the program will automatically identify the image and find the feasible way betw
 <img src="https://github.com/andylvyp/Dijkstra/blob/master/darkmaze.jpg" width="50%" height="50%">
 </div>
 <div align=center>
-<div> This is the original maze. </div>
+<div> The original maze. </div>
 </div>
+
+</br>
+</br>
   
 <div align=center>
 <img src="https://github.com/andylvyp/Dijkstra/blob/master/out.png" width="50%" height="50%">
+</div>
+<div align=center>
+<div> The solution to the maze. </div>
 </div>
